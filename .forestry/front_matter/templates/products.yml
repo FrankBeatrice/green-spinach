@@ -73,8 +73,8 @@ fields:
     source:
       type: custom
     options:
-    - summer
-    - europe
+    - weekly-meals
+    - bulkmeals
     - bigplants
     - cactuses
 - type: boolean

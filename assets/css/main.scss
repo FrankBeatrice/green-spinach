@@ -50,13 +50,29 @@ body {
 a {
     text-decoration: none;
     color: inherit;
+    &:hover {
+        color: #3EB93C;
+      }
+      &:active {
+        color: #3EB93C;
+        
+      }
+    
 }
+
 
 figure {
     margin: 0;
     padding: 0;
 }
 
+a.link.hero_link {
+    color: #ffffff;
+    &:hover {
+        color: #3EB93C;
+
+}
+}
 // Global styles
 @import "imports/reset";
 @import "imports/mixins";

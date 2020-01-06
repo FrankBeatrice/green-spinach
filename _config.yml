@@ -3,14 +3,14 @@ permalink: '/:title/'
 title: Snipcart
 snipcart_js: 'https://cdn.snipcart.com/themes/v3.0.4/default/snipcart.js'
 snipcart_css: 'https://cdn.snipcart.com/themes/v3.0.4/default/snipcart.css'
-snipcart_api_key: ''
+snipcart_api_key: 'ZTg0ODg3MzctZWY0ZC00YzRhLThkMmMtMjhjYmU2OWNhY2Q2NjM2NTIzMzM1ODI0MDQ0Nzkx'
 logos:
   light:
-    optimized: images/logo-white.svg
-    fallback: images/logo-white.svg
+    optimized: images/logo-black.svg
+    fallback: images/logo-black.svg
   dark:
-    optimized: images/logo.svg
-    fallback: images/logo.svg
+    optimized: images/logo-black.svg
+    fallback: images/logo-black.svg
 palette: default
 palettes:
   default:
@@ -19,7 +19,7 @@ palettes:
       light: '#F0F0F0'
       medium: '#6B797A'
       dark: '#384647'
-      active: '#88DD9B'
+      active: '#3EB93C'
       active_light: '#C0FDB6'
       active_medium: '#5C9174'
       active_dark: '#547567'

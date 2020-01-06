@@ -1,6 +1,6 @@
 ---
-slug: summer
-title: Summer plants
+slug: weekly meals
+title: weekly meals
 section: Store
 menus:
   categories:

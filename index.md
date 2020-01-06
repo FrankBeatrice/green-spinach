@@ -4,6 +4,8 @@ isHome: true
 layout: index
 ---
 
-# Real, beautiful plants right to your door
+# Velocity Training + Nutrition
+#weekly meals 
+#right to your door.
 
  

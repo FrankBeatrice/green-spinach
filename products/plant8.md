@@ -18,7 +18,7 @@ images:
     original:
       optimized: /images/plant8-featured-lg.webp
       fallback: /images/plant8-featured-lg.jpg
-category: summer
+category: weekly-meals
 featured: false
 section: Store
 layout: product
