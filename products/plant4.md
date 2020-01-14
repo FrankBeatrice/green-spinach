@@ -1,7 +1,7 @@
 ---
 id: "4"
 title: Buffalo Turkey Meatballs
-description: 'Calories 380*  Fat 4g   Carbohydrates 32g Protein 33g '
+description: 'Calories 380*  Fat 4g   Carbohydrates 32g    Protein 33g  '
 price: "24.99"
 images:
   default:
