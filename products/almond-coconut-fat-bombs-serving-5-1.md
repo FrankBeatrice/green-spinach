@@ -6,8 +6,8 @@ price: "24.99"
 images:
   default:
     thumbnail:
-      optimized: "/images/logo-black.svg"
-      fallback: "/images/logo-black.svg"
+      optimized: "/images/favicon.webp"
+      fallback: "/images/favicon.webp"
     original:
       optimized: "/images/favicon.webp"
       fallback: "/images/favicon.webp"
