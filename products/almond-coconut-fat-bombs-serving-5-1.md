@@ -6,11 +6,11 @@ price: "24.99"
 images:
   default:
     thumbnail:
-      optimized: "/images/Screen Shot 2020-01-14 at 2.42.40 PM.png"
-      fallback: "/images/Screen Shot 2020-01-14 at 2.42.40 PM.png"
+      optimized: "/images/logo-black.svg"
+      fallback: "/images/logo-black.svg"
     original:
-      optimized: "/images/Screen Shot 2020-01-14 at 2.42.40 PM.png"
-      fallback: "/images/Screen Shot 2020-01-14 at 2.42.40 PM.png"
+      optimized: "/images/logo-black.svg"
+      fallback: "/images/logo-black.svg"
   featured:
     thumbnail:
       optimized: "/images/plant4-featured.webp"
