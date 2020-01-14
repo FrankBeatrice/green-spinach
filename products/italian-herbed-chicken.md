@@ -7,10 +7,10 @@ price: "24.99"
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/plant1-featured-lg.webp"
+      fallback: "/images/plant1-featured.jpg"
     original:
-      optimized: ''
+      optimized: "/images/plant1-featured-lg.webp"
       fallback: ''
   featured:
     thumbnail:
