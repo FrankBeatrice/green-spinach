@@ -1,7 +1,7 @@
 ---
-id: "10"
-title: Chorizo Tacos
-description: Calories 700* Fat 52g  Carbohydrates 20g Protein 34g
+id: "11"
+title: Grilled Chicken Club Salad
+description: Calories 300* Fat 8g   Carbohydrates 20g Protein 32g
 price: "24.99"
 images:
   default:
@@ -22,10 +22,10 @@ category: cactuses
 featured: false
 section: Store
 layout: product
-published: false
 
 ---
-# Chorizo Tacos
+# Grilled Chicken Club Salad
 
-Calories 700* Fat 52g   
-Carbohydrates 20g Protein 34g
+Calories 300* Fat 8g 
+
+Carbohydrates 20g Protein 32g
