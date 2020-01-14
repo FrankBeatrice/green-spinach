@@ -22,6 +22,5 @@ images:
 category: cactuses
 featured: false
 section: Store
-published: false
 
 ---
