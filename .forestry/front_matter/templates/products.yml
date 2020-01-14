@@ -99,6 +99,7 @@ fields:
     required: true
 pages:
 - products/buffalo-turkey-meatballs.md
+- products/cajun-blackened-chicken.md
 - products/chorizo-tacos-1.md
 - products/chorizo-tacos-2.md
 - products/chorizo-tacos-3.md
