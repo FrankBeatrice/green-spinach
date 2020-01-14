@@ -1,7 +1,7 @@
 ---
-id: "10"
-title: Chorizo Tacos
-description: Calories 700* Fat 52g  Carbohydrates 20g Protein 34g
+id: "15"
+title: Lemon Herbed Baked Chicken
+description: Calories 380* Fat 8g   Carbohydrates 25g Protein 35g
 price: "24.99"
 images:
   default:
@@ -22,10 +22,11 @@ category: cactuses
 featured: false
 section: Store
 layout: product
-published: false
 
 ---
-# Chorizo Tacos
+# Lemon Herbed  
+Baked Chicken
 
-Calories 700* Fat 52g   
-Carbohydrates 20g Protein 34g
+Calories 380* Fat 8g 
+
+Carbohydrates 25g Protein 35g
