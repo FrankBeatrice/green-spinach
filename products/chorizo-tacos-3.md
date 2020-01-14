@@ -1,6 +1,6 @@
 ---
 id: "14"
-title: Chorizo Tacos
+title: Cranberry Walnut  Chicken Salad
 description: 'Calories 280* Fat 5g   Carbohydrates 20g Protein 20g '
 price: "24.99"
 images:
