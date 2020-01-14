@@ -1,7 +1,7 @@
 ---
-id: "10"
+id: "14"
 title: Chorizo Tacos
-description: Calories 700* Fat 52g  Carbohydrates 20g Protein 34g
+description: 'Calories 280* Fat 5g   Carbohydrates 20g Protein 20g '
 price: "24.99"
 images:
   default:
@@ -22,10 +22,11 @@ category: cactuses
 featured: false
 section: Store
 layout: product
-published: false
 
 ---
-# Chorizo Tacos
+# Cranberry Walnut   
+Chicken Salad
 
-Calories 700* Fat 52g   
-Carbohydrates 20g Protein 34g
+Calories 280* Fat 5g 
+
+Carbohydrates 20g Protein 20g 
