@@ -1,6 +1,6 @@
 ---
-id: "10"
-title: Chorizo Tacos
+id: "13"
+title: Steak Skewers
 description: Calories 700* Fat 52g  Carbohydrates 20g Protein 34g
 price: "24.99"
 images:
@@ -22,10 +22,10 @@ category: cactuses
 featured: false
 section: Store
 layout: product
-published: false
 
 ---
-# Chorizo Tacos
+# Steak Skewers
 
-Calories 700* Fat 52g   
-Carbohydrates 20g Protein 34g
+Calories 420* Fat 8g 
+
+Carbohydrates 40g Protein 34g
