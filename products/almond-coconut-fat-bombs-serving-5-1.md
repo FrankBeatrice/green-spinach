@@ -9,8 +9,8 @@ images:
       optimized: "/images/logo-black.svg"
       fallback: "/images/logo-black.svg"
     original:
-      optimized: "/images/logo-black.svg"
-      fallback: "/images/logo-black.svg"
+      optimized: "/images/favicon.webp"
+      fallback: "/images/favicon.webp"
   featured:
     thumbnail:
       optimized: "/images/plant4-featured.webp"
