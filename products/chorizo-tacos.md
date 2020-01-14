@@ -1,7 +1,7 @@
 ---
 id: "4"
-title: Chorizo Tacos
-description: Calories 700* Fat 52g  Carbohydrates 20g Protein 34g
+title: Steak Chimichurri
+description: Calories 450* Fat 15g  Carbohydrates 40g Protein 38g
 price: "24.99"
 images:
   default:
@@ -22,10 +22,10 @@ category: cactuses
 featured: false
 section: Store
 layout: product
-published: false
 
 ---
-# Chorizo Tacos
+# Steak Chimichurri
 
-Calories 700* Fat 52g   
-Carbohydrates 20g Protein 34g
+Calories 450* Fat 15g 
+
+Carbohydrates 40g Protein 38g
