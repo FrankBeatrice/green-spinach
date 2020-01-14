@@ -1,7 +1,7 @@
 ---
-id: "10"
-title: Chorizo Tacos
-description: Calories 700* Fat 52g  Carbohydrates 20g Protein 34g
+id: "17"
+title: Cajun Blackened Chicken
+description: 'Calories 420* Fat 6g*   Carbohydrates 30g Protein 35g '
 price: "24.99"
 images:
   default:
@@ -22,10 +22,10 @@ category: cactuses
 featured: false
 section: Store
 layout: product
-published: false
 
 ---
-# Chorizo Tacos
+# Cajun Blackened Chicken
 
-Calories 700* Fat 52g   
-Carbohydrates 20g Protein 34g
+Calories 420* Fat 6g* 
+
+Carbohydrates 30g Protein 35g 
