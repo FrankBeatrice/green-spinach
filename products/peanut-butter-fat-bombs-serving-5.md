@@ -1,7 +1,7 @@
 ---
-id: "19"
-title: Peanut Butter Fat Bombs (serving 5)
-description: 'Calories 200* Fat 15g*  Carbohydrates 12g Protein 6g '
+id: "20"
+title: Zesty Herbed Chicken
+description: 'Calories 320* Fat 6g   Carbohydrates 40g Protein 32g '
 price: "24.99"
 images:
   default:
@@ -22,11 +22,10 @@ category: cactuses
 featured: false
 section: Store
 layout: product
-published: false
 
 ---
-# Peanut Butter  
-Fat Bombs
+# Zesty Herbed Chicken
 
-Calories 200* Fat 15g  
-\*Carbohydrates 12g Protein 6g
+Calories 320* Fat 6g 
+
+Carbohydrates 40g Protein 32g 
