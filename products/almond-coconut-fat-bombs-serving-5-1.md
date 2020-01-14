@@ -1,16 +1,16 @@
 ---
-id: "18"
-title: Almond Coconut Fat Bombs (serving 5)
-description: Calories 100* Fat 10g*   Carbohydrates 6g Protein 1g
+id: "21"
+title: Orange Sesame Grilled Chicken Salad (contains nuts)
+description: 'Calories 280* Fat 8g Carbohydrates 20g Protein 30g '
 price: "24.99"
 images:
   default:
     thumbnail:
-      optimized: "/images/plant4.webp"
-      fallback: "/images/plant4.jpg"
+      optimized: "/images/Screen Shot 2020-01-14 at 2.42.40 PM.png"
+      fallback: "/images/Screen Shot 2020-01-14 at 2.42.40 PM.png"
     original:
-      optimized: "/images/plant4-lg.webp"
-      fallback: "/images/plant4-lg.jpg"
+      optimized: "/images/Screen Shot 2020-01-14 at 2.42.40 PM.png"
+      fallback: "/images/Screen Shot 2020-01-14 at 2.42.40 PM.png"
   featured:
     thumbnail:
       optimized: "/images/plant4-featured.webp"
@@ -22,13 +22,10 @@ category: cactuses
 featured: false
 section: Store
 layout: product
-published: false
 
 ---
-# Almond Coconut  
-Fat Bombs 
+# Orange Sesame Grilled Chicken Salad (contains nuts)
 
-  
-Calories 100* Fat 10g* 
+Calories 280* Fat 8g 
 
-Carbohydrates 6g Protein 1g 
+Carbohydrates 20g Protein 30g
