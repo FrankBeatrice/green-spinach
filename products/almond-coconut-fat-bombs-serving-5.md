@@ -1,7 +1,7 @@
 ---
-id: "18"
-title: Almond Coconut Fat Bombs (serving 5)
-description: Calories 100* Fat 10g*   Carbohydrates 6g Protein 1g
+id: "19"
+title: Peanut Butter Fat Bombs (serving 5)
+description: 'Calories 200* Fat 15g*  Carbohydrates 12g Protein 6g '
 price: "24.99"
 images:
   default:
@@ -22,13 +22,10 @@ category: cactuses
 featured: false
 section: Store
 layout: product
-published: false
 
 ---
-# Almond Coconut  
-Fat Bombs 
+# Peanut Butter  
+Fat Bombs
 
-  
-Calories 100* Fat 10g* 
-
-Carbohydrates 6g Protein 1g 
+Calories 200* Fat 15g  
+\*Carbohydrates 12g Protein 6g
