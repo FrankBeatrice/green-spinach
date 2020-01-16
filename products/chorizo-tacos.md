@@ -2,7 +2,7 @@
 id: "3"
 title: Chorizo Tacos
 description: ''
-price: "24.99"
+price: "$10.00"
 images:
   default:
     thumbnail:
