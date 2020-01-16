@@ -24,3 +24,14 @@ featured: false
 section: Store
 
 ---
+Macros
+
+Calories - 280
+
+Carbohydrates - 40g
+
+Fat - 8g
+
+Protein - 20g
+
+Ingredients - Protein pancake mix, Vanilla extract, Salt, Water, Cinnamon, Nutmeg, Turkey bacon, Carrots 
