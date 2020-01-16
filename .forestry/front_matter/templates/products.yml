@@ -98,13 +98,11 @@ fields:
   config:
     required: true
 pages:
-- products/almond-coconut-fat-bombs-serving-5-1.md
 - products/beef-stir-fry.md
 - products/buffalo-turkey-meatballs.md
 - products/cajun-blackened-chicken.md
 - products/chorizo-tacos-1.md
 - products/chorizo-tacos-3.md
-- products/chorizo-tacos-4.md
 - products/chorizo-tacos-6.md
 - products/italian-herbed-chicken.md
 - products/plant4.md
