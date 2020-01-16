@@ -26,6 +26,5 @@ fields:
   config:
     required: true
 pages:
-- category/bigplants.md
 - category/europe.md
 - category/weekly-meals.md
