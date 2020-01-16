@@ -4,7 +4,7 @@ id: '8 '
 title: Taco Bowl
 description: 'Healthy taco bowl grilled chopped chicken with a mix of peppers, black
   beans, cilantro white rice and seasoned grilled chicken '
-price: "$10.00"
+price: '10.00'
 images:
   default:
     thumbnail:
