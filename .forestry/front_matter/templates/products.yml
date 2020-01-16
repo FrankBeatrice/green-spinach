@@ -98,7 +98,6 @@ fields:
   config:
     required: true
 pages:
-- products/beef-stir-fry.md
 - products/buffalo-turkey-meatballs.md
 - products/chorizo-tacos-1.md
 - products/chorizo-tacos-3.md
