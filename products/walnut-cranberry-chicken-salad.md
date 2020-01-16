@@ -1,7 +1,7 @@
 ---
 layout: product
 id: "6"
-title: 'Walnut Cranberry Chicken Salad '
+title: 'Cranberry Walnut Chicken Salad '
 description: 'grilled chicken over a bed of spring mix leafy greens with dried cranberries
   and walnuts  '
 price: '5.50'
@@ -25,6 +25,7 @@ featured: false
 section: Store
 
 ---
+
 Macros
 
 Calories- 280*
