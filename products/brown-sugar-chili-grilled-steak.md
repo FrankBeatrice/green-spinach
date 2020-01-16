@@ -1,6 +1,6 @@
 ---
 layout: product
-id: "9"
+id: "7"
 title: 'Brown Sugar Chili Grilled Steak '
 description: 'Sweet smokey grilled steak with roasted sweet potatoes and steamed broccoli '
 price: '10.00'
