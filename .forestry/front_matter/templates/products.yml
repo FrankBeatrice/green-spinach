@@ -98,8 +98,8 @@ fields:
   config:
     required: true
 pages:
+- products/brown-sugar-chili-grilled-steak.md
 - products/buffalo-turkey-meatballs.md
-- products/chorizo-tacos-1.md
 - products/chorizo-tacos-3.md
 - products/chorizo-tacos-6.md
 - products/plant4.md

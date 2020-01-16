@@ -26,5 +26,4 @@ fields:
   config:
     required: true
 pages:
-- category/europe.md
 - category/weekly-meals.md
