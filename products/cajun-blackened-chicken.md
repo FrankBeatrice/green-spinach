@@ -1,7 +1,8 @@
 ---
 id: "4"
 title: Cajun Blackened Chicken
-description: 'Calories 420* Fat 6g*   Carbohydrates 30g Protein 35g '
+description: 'Healthy light southern / caribbean blackened chicken served with southern
+  healthy collard greens and sweet plantains '
 price: "24.99"
 images:
   default:
@@ -24,8 +25,14 @@ section: Store
 layout: product
 
 ---
-# Cajun Blackened Chicken
 
-Calories 420* Fat 6g* 
+Macros  
+Calories - 420*
 
-Carbohydrates 30g Protein 35g 
+Carbohydrates - 30g
+
+Fat - 6g*
+
+Protein - 32g
+
+Ingredients - Chicken, Plantains, Collard greens, (Cajun blacked seasoning blend), Salt, Pepper, Extra virgin olive oil, Pineapple
