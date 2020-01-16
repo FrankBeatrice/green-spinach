@@ -1,6 +1,6 @@
 ---
-slug: bulk
-title: Bulk Protien
+slug: bulk-protien
+title: Bulk-Protien
 section: Store
 menus:
   categories:
