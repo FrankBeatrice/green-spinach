@@ -1,7 +1,7 @@
 ---
 id: "3"
 title: Chorizo Tacos
-description: Calories 700* Fat 52g  Carbohydrates 20g Protein 34g
+description: ''
 price: "24.99"
 images:
   default:
@@ -24,7 +24,17 @@ section: Store
 layout: product
 
 ---
-# Chorizo Tacos
 
-Calories 700* Fat 52g   
-Carbohydrates 20g Protein 34g
+Calories - 600*
+
+Carbohydrates - 20g
+
+Fat - 44g
+
+Protein - 34g
+
+Ingredients - Chorizo sausage, Four Tortillas, Cilantro, Cabbage, Salt Pepper, Black beans, White rice, Lime, Vinegar, Reduced fat mayo
+
+Contains - Dairy
+
+ 
