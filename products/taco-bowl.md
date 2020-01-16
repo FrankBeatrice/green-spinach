@@ -25,3 +25,14 @@ featured: false
 section: Store
 
 ---
+Macros 
+
+Calories - 280*
+
+Carbohydrates - 20g
+
+Fat - 8g
+
+Protein - 30g*
+
+Ingredients - Cilantro, Lime juice, White rice, Black beans, Taco seasoning blend, Grilled chicken, Bell peppers
