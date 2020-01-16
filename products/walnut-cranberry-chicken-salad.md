@@ -4,7 +4,7 @@ id: "6"
 title: 'Walnut Cranberry Chicken Salad '
 description: 'grilled chicken over a bed of spring mix leafy greens with dried cranberries
   and walnuts  '
-price: "$5.50"
+price: '5.50'
 images:
   default:
     thumbnail:
