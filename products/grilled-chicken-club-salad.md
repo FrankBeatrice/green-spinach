@@ -2,7 +2,7 @@
 id: "1"
 title: Grilled Chicken Club Salad
 description: Calories 300* Fat 8g   Carbohydrates 20g Protein 32g
-price: "24.99"
+price: "$5.50"
 images:
   default:
     thumbnail:
@@ -26,6 +26,8 @@ layout: product
 ---
 # Grilled Chicken Club Salad
 
-Calories 300* Fat 8g 
+Grilled chicken over a bed of leafy green spring mix with tomatoes chopped sweet onions, sweet peppered maple bacon and a honey mustard dressing. 
+
+Calories 300* Fat 8g
 
 Carbohydrates 20g Protein 32g
