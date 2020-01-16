@@ -22,6 +22,6 @@ images:
       fallback: ''
 category: weekly-meals
 featured: false
-section: ''
+section: Store
 
 ---
