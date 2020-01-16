@@ -1,6 +1,6 @@
 ---
 layout: product
-id: "6"
+id: "1"
 title: 'Cranberry Walnut Chicken Salad '
 description: 'grilled chicken over a bed of spring mix leafy greens with dried cranberries
   and walnuts  '
