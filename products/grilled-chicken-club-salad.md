@@ -18,7 +18,7 @@ images:
     original:
       optimized: "/images/plant4-featured-lg.webp"
       fallback: "/images/plant4-featured-lg.jpg"
-category: cactuses
+category: weekly-meals
 featured: false
 section: Store
 layout: product
