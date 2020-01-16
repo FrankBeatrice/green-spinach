@@ -98,6 +98,7 @@ fields:
   config:
     required: true
 pages:
+- products/almond-oat-crusted-breakfast-chicken.md
 - products/brown-sugar-chili-grilled-steak.md
 - products/taco-bowl.md
 - products/vanilla-protein-waffles.md
