@@ -1,5 +1,5 @@
 ---
-id: "4"
+id: "6"
 title: Cajun Blackened Chicken
 description: 'Healthy light southern / caribbean blackened chicken served with southern
   healthy collard greens and sweet plantains '
