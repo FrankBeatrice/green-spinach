@@ -1,6 +1,6 @@
 ---
-slug: weekly meals
-title: weekly meals
+slug: weekly-meals
+title: Weekly-Meals
 section: Store
 menus:
   categories:
