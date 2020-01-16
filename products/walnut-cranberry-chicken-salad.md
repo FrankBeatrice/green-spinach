@@ -25,3 +25,14 @@ featured: false
 section: Store
 
 ---
+Macros
+
+Calories- 280*
+
+Carbohydrates- 20g
+
+Fats-5g*
+
+Protein - 20G
+
+Ingredients - Walnuts, Cranberries, Spring mixed greens, Grilled chicken, Italian seasoning blend, Onion powder, Walnut cranberry dressing.
