@@ -14,8 +14,8 @@ images:
       fallback: "/images/Product-Image-Coming-Soon.png"
   featured:
     thumbnail:
-      optimized: "/images/plant4-featured.webp"
-      fallback: "/images/plant4-featured.jpg"
+      optimized: "/images/Product-Image-Coming-Soon.png"
+      fallback: "/images/Product-Image-Coming-Soon.png"
     original:
       optimized: "/images/Product-Image-Coming-Soon.png"
       fallback: "/images/Product-Image-Coming-Soon.png"
