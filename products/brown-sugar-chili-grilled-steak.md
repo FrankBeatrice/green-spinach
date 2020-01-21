@@ -2,7 +2,7 @@
 layout: product
 id: "7"
 title: 'Brown Sugar Chili Grilled Steak '
-description: Sweet smokey grilled steak with roasted sweet potatoes and steamed broccoli  Macros  Calories
+description: Sweet smokey grilled steak with roasted sweet potatoes and steamed broccoli                           Macros  Calories
   - 480*  Carbohydrate - 40g  Fat- 15g*  Protein - 28g  Ingredients - N.Y. strip streak,
   Brown Sugar, Chili powder, Onion powder, Salt, Pepper, Olive oil, (House secret
   liquid blend), Sweet potato, Broccoli
