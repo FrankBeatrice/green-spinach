@@ -7,11 +7,11 @@ price: '5.50'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/Product-Image-Coming-Soon.png"
+      fallback: "/images/Product-Image-Coming-Soon.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/Product-Image-Coming-Soon.png"
+      fallback: "/images/Product-Image-Coming-Soon.png"
   featured:
     thumbnail:
       optimized: ''
@@ -34,4 +34,4 @@ Fat - 8g
 
 Protein - 20g
 
-Ingredients - Protein pancake mix, Vanilla extract, Salt, Water, Cinnamon, Nutmeg, Turkey bacon, Carrots 
+Ingredients - Protein pancake mix, Vanilla extract, Salt, Water, Cinnamon, Nutmeg, Turkey bacon, Carrots
