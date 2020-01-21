@@ -17,8 +17,8 @@ images:
       optimized: ''
       fallback: ''
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/Product-Image-Coming-Soon.png"
+      fallback: "/images/Product-Image-Coming-Soon.png"
 category: weekly-meals
 featured: false
 section: Store
