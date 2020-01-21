@@ -10,8 +10,8 @@ images:
       optimized: "/images/Product-Image-Coming-Soon.png"
       fallback: "/images/Product-Image-Coming-Soon.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/Product-Image-Coming-Soon.png"
+      fallback: "/images/Product-Image-Coming-Soon.png"
   featured:
     thumbnail:
       optimized: "/images/Product-Image-Coming-Soon.png"
