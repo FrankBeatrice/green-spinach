@@ -7,8 +7,8 @@ price: '10.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/Product-Image-Coming-Soon.png"
+      fallback: "/images/Product-Image-Coming-Soon.png"
     original:
       optimized: ''
       fallback: ''
@@ -24,7 +24,6 @@ featured: false
 section: Store
 
 ---
-
 Macros
 
 Calories - 480*
@@ -35,4 +34,4 @@ Fat- 15g*
 
 Protein - 28g
 
-Ingredients - N.Y. strip streak, Brown Sugar, Chili powder, Onion powder, Salt, Pepper, Olive oil, (House secret liquid blend), Sweet potato, Broccoli 
+Ingredients - N.Y. strip streak, Brown Sugar, Chili powder, Onion powder, Salt, Pepper, Olive oil, (House secret liquid blend), Sweet potato, Broccoli
