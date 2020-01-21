@@ -17,8 +17,8 @@ images:
       optimized: "/images/plant4-featured.webp"
       fallback: "/images/plant4-featured.jpg"
     original:
-      optimized: "/images/plant4-featured-lg.webp"
-      fallback: "/images/plant4-featured-lg.jpg"
+      optimized: "/images/Product-Image-Coming-Soon.png"
+      fallback: "/images/Product-Image-Coming-Soon.png"
 category: weekly-meals
 featured: false
 section: Store
