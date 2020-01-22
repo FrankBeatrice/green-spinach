@@ -696,8 +696,4 @@ document.querySelectorAll('.js-figure-link').forEach((l) => {
 });
 
 
-Snipcart.subscribe('page.validating', function(ev, data) {
-    ev.type == 'cart-content' = '8') 
-});
-
 
