@@ -174,7 +174,7 @@
   ;
 
 
-  //Cart Minimum 
+  /*Cart Minimum 
 Snipcart.subscribe('page.validating', function(ev, data) {
   if (ev.type === 'cart-content') {
      var itemsCount = data.reduce(function(acc, curr) {return acc + curr.quantity}, 0);
@@ -185,7 +185,7 @@ Snipcart.subscribe('page.validating', function(ev, data) {
      }
   }
 });  
-
+*/
   /**
    * docElement is a convenience wrapper to grab the root element of the document
    *
