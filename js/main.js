@@ -695,5 +695,15 @@ document.querySelectorAll('.js-figure-link').forEach((l) => {
   });
 });
 
-
+//Cart Minimum 
+Snipcart.subscribe('page.validating', function(ev, data) {
+  if (ev.type === 'cart-content') {
+     var itemsCount = data.reduce(function(acc, curr) {return acc + curr.quantity}, 0);
+     
+     if (itemsCount < 8) {
+        ev.addError();
+        Snipcart.get('flash').showMessage({type: 'error', message: 'You must add at least 8 items to your cart'})
+     }
+  }
+});
 
