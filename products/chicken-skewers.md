@@ -4,15 +4,15 @@ id: '8 '
 title: Chicken Skewers
 description: 'Grilled B.B.Q chicken skewers served with roasted rosemary potatoes
   and seamed broccoli  '
-price: "$9.50"
+price: '9.50'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/Product-Image-Coming-Soon.png"
+      fallback: "/images/Product-Image-Coming-Soon.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/Product-Image-Coming-Soon.png"
+      fallback: "/images/Product-Image-Coming-Soon.png"
   featured:
     thumbnail:
       optimized: ''
@@ -35,4 +35,4 @@ Fat - 6g
 
 Protein - 30g
 
-Ingredients - Chicken, B.B.Q sauce, Salt, Black pepper, Onion Powder, Rosemary, Olive oil, Potato, Broccoli 
+Ingredients - Chicken, B.B.Q sauce, Salt, Black pepper, Onion Powder, Rosemary, Olive oil, Potato, Broccoli

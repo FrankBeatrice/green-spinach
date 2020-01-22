@@ -3,29 +3,28 @@ id: "6"
 title: Cajun Blackened Chicken
 description: 'Healthy light southern / caribbean blackened chicken served with southern
   healthy collard greens and sweet plantains '
-price: "$10.00"
+price: '10.00'
 images:
   default:
     thumbnail:
-      optimized: "/images/plant4.webp"
-      fallback: "/images/plant4.jpg"
+      optimized: "/images/Product-Image-Coming-Soon.png"
+      fallback: "/images/Product-Image-Coming-Soon.png"
     original:
-      optimized: "/images/plant4-lg.webp"
-      fallback: "/images/plant4-lg.jpg"
+      optimized: "/images/Product-Image-Coming-Soon.png"
+      fallback: "/images/Product-Image-Coming-Soon.png"
   featured:
     thumbnail:
-      optimized: "/images/plant4-featured.webp"
-      fallback: "/images/plant4-featured.jpg"
+      optimized: "/images/Product-Image-Coming-Soon.png"
+      fallback: "/images/Product-Image-Coming-Soon.png"
     original:
-      optimized: "/images/plant4-featured-lg.webp"
-      fallback: "/images/plant4-featured-lg.jpg"
+      optimized: "/images/Product-Image-Coming-Soon.png"
+      fallback: "/images/Product-Image-Coming-Soon.png"
 category: weekly-meals
 featured: false
 section: Store
 layout: product
 
 ---
-
 Macros  
 Calories - 420*
 
