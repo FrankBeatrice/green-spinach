@@ -1,4 +1,4 @@
-baseurl: green-spinach-baa3a.netlify.com
+baseurl: /green-spinach-baa3a.netlify.com
 permalink: '/:title/'
 title: Snipcart
 snipcart_js: 'https://cdn.snipcart.com/scripts/2.0/snipcart.js'
